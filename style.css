@@ -1,0 +1,169 @@
+
+.mylogo{
+    width: 150px;
+    margin-top: 90px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    border-radius: 50%;
+    display:flex;    
+}
+
+.mylogo:hover{
+    background-color:#ecc3ba ;
+    padding: 10px 3px 0px 3px;
+    
+}
+
+
+p{
+    font-size: 20px;
+    color: #222;
+}
+
+.midbox{
+    
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ok{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #222;
+    text-align: center;
+    font-size: 50px;
+}
+
+.imgbox {
+    text-align: center;
+    
+}
+.midbox img{
+    width: auto;
+    margin: auto;
+    display:flex;  
+    padding: 20px;  
+    border-radius: 30px;
+    
+}
+
+
+
+.imgbox a{
+        
+        color: #ba7a6d;
+        text-align:center;
+        text-decoration: solid;
+        font-weight: 500;
+        border-width: 2px;
+        border-style: solid;
+        border-radius: 4px;
+        padding: 5px;
+        
+    }
+
+    .imgbox a:hover{
+        background-color: #cd968b;
+    }
+
+
+
+    .backbox{
+        background-color: #E1D0B8;
+        padding: 30px;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+ .mithila_wall{
+    background-color: #f1d9d2;
+    width: 80%;
+    padding-top: 1px;
+    margin: auto;
+    border-radius: 10px;
+    
+
+ }
+
+ .mithila_wall h1{
+    text-align: center;
+ }
+
+ .contact{
+    list-style: none;
+    display: flex;
+    margin: 40ps 0px;
+    padding: 0px;
+    justify-content: center;
+    gap: 15px;
+ }
+
+ .contact li a{
+
+    color: #a75d5d;
+    font-size: 20px;
+    text-decoration: solid;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 2px;
+ }
+
+ .contact li a:hover{
+    background-color: brown;
+ }
+
+
+
+ .gallery{
+    list-style: none;
+    display: flex;
+    padding: 10px;
+    margin: 0 ;
+    justify-content: center;
+    
+ }
+ 
+ .gallery li img{
+    color: #a75d5d;
+    text-decoration: none;
+    justify-content: center;
+    border: 1px solid;
+    height: 300px;
+    width: 200px;
+    padding: 5px;
+    margin: opx;
+    
+    }
+
+.end{
+        font-size: 20px;
+        color: #222;
+        padding: 50px;
+}
+
+.home{
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 50px;
+}
+
+.home a{
+        
+    color: #ba7a6d;
+    text-decoration: solid;
+    font-weight: 500;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px;
+    padding: 5px 15px;
+    margin: auto;
+    
+}
+
+.home a:hover{
+    background-color: #cd968b;
+}
+
